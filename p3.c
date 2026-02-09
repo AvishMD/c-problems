@@ -4,4 +4,7 @@ Print an integer value
 
 	int main() {
    	 	int a=10;
+
    	 	printf("10");
+return 0;
+}
